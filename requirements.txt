@@ -1,0 +1,11 @@
+# requirements.txt
+fastapi
+uvicorn
+python-dotenv
+crewai
+pyodbc
+requests
+python-multipart
+pydantic
+python-jose
+passlib

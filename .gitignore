@@ -1,0 +1,25 @@
+# Ignore compiled Python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore virtual environment (if any)
+venv/
+.env
+
+# Ignore database schema cache files
+db_schema.json
+detailed_schema.json
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+*.bak
+
+# Ignore VS Code workspace settings
+.vscode/
+
+# Ignore test artifacts
+test_schema.pyc
+schema_report.txt
